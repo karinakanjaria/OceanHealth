@@ -3,4 +3,5 @@
 
 ## How To Run:
 1. Download data (bottle.csv, cast.csv) from https://www.kaggle.com/datasets/sohier/calcofi
-2. Run Jupyter Notebook
+2. pip install pyspark 
+3. Run Jupyter Notebook
