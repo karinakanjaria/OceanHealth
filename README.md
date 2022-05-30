@@ -12,7 +12,7 @@ To determine phytoplankton concentration, we have chosen to analyze chlorophyll 
 Ultimately, our project will produce a Logistic Regression and a Decision Tree model that will predict which concentration level the new sample is in. This will cut back on sampling cost and labor because a mass spectrometry analysis for chlorophyll will be unnecessary. 
 
 
-## Project Description
+## Notebook Outline
 
 - Data Preperation
 	- Cleaned Data
